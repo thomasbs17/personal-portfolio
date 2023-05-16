@@ -1,0 +1,22 @@
+{
+    "Hadada": {
+        "description": "Hadada has built a platform that allows real-time aggregation of both financial and alternative data via a single touchpoint.\nIt also offers an intelligent analytical layer helping businesses make more accurate data driven decisions.\nHadada Data Analytical Solution for lenders is empowering Nigerian fintechs and MFBs to offer loans and innovative financial products at scale both \nfor banked and unbanked, by helping to aggregate alternative financial data across sources and helping fintechs to tackle two current issues preventing \nlenders to win more market shares; credit decision and loan collection.\nI was in charge of contributing to data aggregation and I led the analytical solution.",
+        "img": "hadada.jpg",
+        "link": "https://hadada.co/"
+    },
+    "Bet365": {
+        "description": "An application that continuously tracks international results and odds of a broad range of sports and implements AI algorithms to suggest winning bets.",
+        "img": "bet365.png",
+        "link": "https://github.com/thomasbs17/Bet365"
+    },
+    "Personal Trading": {
+        "description": "An application to support my personal investments. The strategy has a heavy crypto bias. \nIt leverages real-time data from various Centralized (CEX) and Decentralized (DEX) exchanges. \nIt is implemented in Python and is based on a Machine Learning approach.",
+        "img": "personal-trading.jpeg",
+        "link": "https://github.com/thomasbs17"
+    },
+    "Streamlit Contributions": {
+        "description": "Streamlit lets you turn data scripts into shareable web apps in minutes, not weeks. \nIt's all Python, open-source, and free! \nAnd once you've created an app you can use our Community Cloud platform to deploy, manage, and share your app.",
+        "img": "streamlit.png",
+        "link": "https://github.com/thomasbs17/streamlit-contributions"
+    }
+}
